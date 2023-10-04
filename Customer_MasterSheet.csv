@@ -1,0 +1,315 @@
+,STT,CustomerRef,CustomerName,SoldToCode,SoldToName,MajorAccount,MajorAccountCode,MajorAccountCode.1,Channel,SubChannel,Longitude,Latitude,City,State,Country,SalesOrganization,Region
+0,1,11000128,Customer 48,11000128,Company 4,Account 3,91363,91240,Foodservice,National Distributor,145.206237,-38.025962,Greater Dandenong,Victoria,Australia,Organization 1,Greater Melbourne
+1,2,11000144,Customer 50,11000144,Company 6,Account 4,91418,91295,Foodservice,National Distributor,144.9476759,-37.7289906,Moreland,Victoria,Australia,Organization 1,Greater Melbourne
+2,3,11000149,Customer 51,11000149,Company 7,Account 3,91363,91240,Foodservice,National Distributor,152.5190493,-32.1976865,Great Lakes,New South Wales,Australia,Organization 1,Mid North Coast
+3,4,11000159,Customer 52,11000159,Company 8,Account 3,91363,91240,Foodservice,National Distributor,153.1225552,-27.6172304,Logan,Queensland,Australia,Organization 1,Greater Brisbane
+4,5,11000176,Customer 53,11000176,Company 9,Account 4,91418,91295,Foodservice,National Distributor,145.1971191,-37.9909257,Greater Dandenong,Victoria,Australia,Organization 1,Greater Melbourne
+5,6,11000181,Customer 54,11000181,Company 10,Account 3,91363,91240,Foodservice,National Distributor,130.85716,-12.4312623,Darwin,Northern Territory,Australia,Organization 1,Darwin
+6,7,11000185,Customer 55,11000185,Company 11,Account 3,91363,91240,Foodservice,National Distributor,115.92188,-32.0001,Canning,Western Australia,Australia,Organization 1,Perth
+7,8,11000197,Customer 56,11000197,Company 12,Account 5,91401,91278,Foodservice,Independent Distributor,144.8691682,-37.7106979,Brimbank,Victoria,Australia,Organization 1,Greater Melbourne
+8,9,11000209,Customer 57,11000209,Company 13,Account 5,91401,91278,Foodservice,Independent Distributor,147.6152873,-37.8298646,East Gippsland,Victoria,Australia,Organization 1,Latrobe - Gippsland
+9,10,11000248,Customer 58,11000248,Company 14,Account 4,91418,91295,Foodservice,National Distributor,144.3496616,-38.1079755,Greater Geelong,Victoria,Australia,Organization 1,Ballarat & Geelong
+10,11,11000299,Customer 59,11000299,Company 15,Account 6,91346,91223,Foodservice,National Distributor,152.3643373,-24.8627923,Bundaberg,Queensland,Australia,Organization 1,Sunshine Coast & Wide Bay
+11,12,11000300,Customer 60,11000300,Company 16,Account 6,91346,91223,Foodservice,National Distributor,151.2448992,-23.8399747,Gladstone,Queensland,Australia,Organization 1,Central Queensland
+12,13,11000301,Customer 61,11000301,Company 17,Account 6,91346,91223,Foodservice,National Distributor,150.5021598,-23.3225302,Rockhampton,Queensland,Australia,Organization 1,Central Queensland
+13,14,11000302,Customer 62,11000302,Company 18,Account 6,91346,91223,Foodservice,National Distributor,138.5185666,-34.8338433,Port Adelaide Enfield,South Australia,Australia,Organization 1,Adelaide
+14,15,11000303,Customer 63,11000303,Company 19,Account 6,91346,91223,Foodservice,National Distributor,146.9637485,-36.041226,Albury,New South Wales,Australia,Organization 1,Murray
+15,16,11000304,Customer 64,11000304,Company 20,Account 6,91346,91223,Foodservice,National Distributor,151.6531203,-30.5152298,Armidale Dumaresq,New South Wales,Australia,Organization 1,New England and North West
+16,17,11000305,Customer 65,11000305,Company 21,Account 6,91346,91223,Foodservice,National Distributor,153.0868341,-27.4558751,Brisbane,Queensland,Australia,Organization 1,Greater Brisbane
+17,18,11000306,Customer 66,11000306,Company 22,Account 6,91346,91223,Foodservice,National Distributor,145.7529773,-16.9572195,Cairns,Queensland,Australia,Organization 1,Cairns
+18,19,11000307,Customer 67,11000307,Company 23,Account 6,91346,91223,Foodservice,National Distributor,149.1527973,-35.3226104,Unincorporated Australian Capital Territory,Australian Capital Territory,Australia,Organization 1,Australian Capital Territory
+19,20,11000308,Customer 68,11000308,Company 24,Account 6,91346,91223,Foodservice,National Distributor,151.281468,-33.4124416,Gosford,New South Wales,Australia,Organization 1,Central Coast & Newcastle
+20,21,11000309,Customer 69,11000309,Company 25,Account 6,91346,91223,Foodservice,National Distributor,153.089454,-30.3454645,Coffs Harbour,New South Wales,Australia,Organization 1,Coffs Harbour - Grafton
+21,22,11000310,Customer 70,11000310,Company 26,Account 6,91346,91223,Foodservice,National Distributor,130.9275223,-12.4619092,Unincorporated Norther Territories,Northern Territory,Australia,Organization 1,Darwin
+22,23,11000312,Customer 71,11000312,Company 27,Account 6,91346,91223,Foodservice,National Distributor,144.38136,-38.183748,Greater Geelong,Victoria,Australia,Organization 1,Ballarat & Geelong
+23,24,11000313,Customer 72,11000313,Company 28,Account 6,91346,91223,Foodservice,National Distributor,153.4124363,-28.1062933,Gold Coast,Queensland,Australia,Organization 1,Gold Coast
+24,25,11000314,Customer 73,11000314,Company 29,Account 6,91346,91223,Foodservice,National Distributor,152.8901317,-25.3092966,Fraser Coast,Queensland,Australia,Organization 1,Sunshine Coast & Wide Bay
+25,26,11000315,Customer 74,11000315,Company 30,Account 6,91346,91223,Foodservice,National Distributor,147.4683286,-42.8295675,Clarence,Tasmania,Australia,Organization 1,Hobart & South East
+26,27,11000317,Customer 75,11000317,Company 31,Account 6,91346,91223,Foodservice,National Distributor,138.5417527,-34.9552865,West Torrens,South Australia,Australia,Organization 1,Adelaide
+27,28,11000318,Customer 76,11000318,Company 32,Account 6,91346,91223,Foodservice,National Distributor,153.2633386,-28.829374,Lismore,New South Wales,Australia,Organization 1,Richmond - Tweed
+28,29,11000319,Customer 77,11000319,Company 33,Account 6,91346,91223,Foodservice,National Distributor,149.1698136,-21.1726317,Mackay,Queensland,Australia,Organization 1,Mackay - Isaac - Whitsunday
+29,30,11000321,Customer 79,11000321,Company 35,Account 6,91346,91223,Foodservice,National Distributor,151.7101163,-32.8770644,Newcastle,New South Wales,Australia,Organization 1,Central Coast & Newcastle
+30,31,11000322,Customer 80,11000322,Company 36,Account 6,91346,91223,Foodservice,National Distributor,149.8843121,-36.9348,Bega Valley,New South Wales,Australia,Organization 1,Capital Region
+31,32,11000323,Customer 81,11000323,Company 37,Account 6,91346,91223,Foodservice,National Distributor,115.8088949,-32.096643,Cockburn,Western Australia,Australia,Organization 1,Perth
+32,33,11000329,Customer 83,11000329,Company 39,Account 6,91346,91223,Foodservice,National Distributor,153.0352703,-26.6590081,Sunshine Coast,Queensland,Australia,Organization 1,Sunshine Coast & Wide Bay
+33,34,11000330,Customer 84,11000330,Company 40,Account 6,91346,91223,Foodservice,National Distributor,150.9405261,-33.8019265,Holroyd,New South Wales,Australia,Organization 1,Greater Sydney
+34,35,11000331,Customer 85,11000331,Company 41,Account 6,91346,91223,Foodservice,National Distributor,150.8994209,-31.0942355,Tamworth Regional,New South Wales,Australia,Organization 1,New England and North West
+35,36,11000333,Customer 86,11000333,Company 42,Account 6,91346,91223,Foodservice,National Distributor,151.9177903,-27.5471999,Toowoomba,Queensland,Australia,Organization 1,"Darling Downs, Maranoa & Toowoomba"
+36,37,11000334,Customer 87,11000334,Company 43,Account 6,91346,91223,Foodservice,National Distributor,146.7630438,-19.275298,Townsville,Queensland,Australia,Organization 1,Townsville
+37,38,11000335,Customer 88,11000335,Company 44,Account 6,91346,91223,Foodservice,National Distributor,150.7905667,-34.5492333,Shellharbour,New South Wales,Australia,Organization 1,"Sth Highlands, Shoalhaven & Illawarra"
+38,39,11000368,Customer 89,11000368,Company 45,Account 3,91363,91240,Foodservice,National Distributor,149.3060262,-33.5577678,Blayney,New South Wales,Australia,Organization 1,Central West
+39,40,11000413,Customer 90,11000413,Company 46,Account 3,91363,91240,Foodservice,National Distributor,146.5634427,-38.1831991,Latrobe,Victoria,Australia,Organization 1,Latrobe - Gippsland
+40,41,11000417,Customer 91,11000417,Company 47,Account 5,91401,91278,Foodservice,Independent Distributor,115.8196033,-31.86064,Stirling,Western Australia,Australia,Organization 1,Perth
+41,42,11000431,Customer 92,11000431,Company 48,Account 3,91363,91240,Foodservice,National Distributor,145.8473795,-41.0402172,Burnie,Tasmania,Australia,Organization 1,West and North West
+42,43,11000440,Customer 93,11000440,Company 49,Account 3,91363,91240,Foodservice,National Distributor,144.7685357,-36.1407379,Campaspe,Victoria,Australia,Organization 1,Shepparton
+43,44,11000515,Customer 94,11000515,Company 50,Account 8,91353,91230,Grocery,National Distributor,144.2649149,-36.7409173,Greater Bendigo,Victoria,Australia,Organization 1,Bendigo
+44,45,11000519,Customer 95,11000519,Company 51,Account 8,91353,91230,Grocery,National Distributor,150.9972903,-33.7938926,Parramatta,New South Wales,Australia,Organization 1,Greater Sydney
+45,46,11000523,Customer 96,11000523,Company 52,Account 8,91353,91230,Grocery,National Distributor,138.6135972,-34.8259881,Salisbury,South Australia,Australia,Organization 1,Adelaide
+46,47,11000524,Customer 97,11000524,Company 53,Account 8,91353,91230,Grocery,National Distributor,145.0242766,-37.7480962,Darebin,Victoria,Australia,Organization 1,Greater Melbourne
+47,48,11000527,Customer 98,11000527,Company 54,Account 8,91353,91230,Grocery,National Distributor,144.3654031,-38.1666366,Greater Geelong,Victoria,Australia,Organization 1,Ballarat & Geelong
+48,49,11000531,Customer 99,11000531,Company 55,Account 8,91353,91230,Grocery,National Distributor,149.1928227,-21.1416808,Mackay,Queensland,Australia,Organization 1,Mackay - Isaac - Whitsunday
+49,50,11000532,Customer 100,11000532,Company 56,Account 8,91353,91230,Grocery,National Distributor,153.3476771,-27.9950797,Gold Coast,Queensland,Australia,Organization 1,Gold Coast
+50,51,11000534,Customer 101,11000534,Company 57,Account 8,91353,91230,Grocery,National Distributor,146.7536518,-19.2675381,Townsville,Queensland,Australia,Organization 1,Townsville
+51,52,11000535,Customer 102,11000535,Company 58,Account 8,91353,91230,Grocery,National Distributor,145.7670992,-16.9350252,Cairns,Queensland,Australia,Organization 1,Cairns
+52,53,11000536,Customer 103,11000536,Company 59,Account 8,91353,91230,Grocery,National Distributor,145.1403214,-37.9242013,Monash,Victoria,Australia,Organization 1,Greater Melbourne
+53,54,11000538,Customer 104,11000538,Company 60,Account 8,91353,91230,Grocery,National Distributor,150.5071158,-23.3493433,Rockhampton,Queensland,Australia,Organization 1,Central Queensland
+54,55,11000570,Customer 105,11000570,Company 61,Account 9,91357,91234,Grocery,Clearance,144.8269525,-37.8118685,Brimbank,Victoria,Australia,Organization 1,Greater Melbourne
+55,56,11000591,Customer 106,11000591,Company 62,Account 3,91363,91240,Foodservice,National Distributor,152.7212502,-27.6155157,Ipswich,Queensland,Australia,Organization 1,Greater Brisbane
+56,57,11000739,Customer 107,11000739,Company 63,Account 4,91418,91295,Foodservice,National Distributor,150.3196024,-33.7007216,Blue Mountains,New South Wales,Australia,Organization 1,Greater Sydney
+57,58,11000744,Customer 108,11000744,Company 64,Account 3,91363,91240,Foodservice,National Distributor,145.0249543,-37.7515853,Darebin,Victoria,Australia,Organization 1,Greater Melbourne
+58,59,11000769,Customer 110,11000769,Company 66,Account 5,91401,91278,Foodservice,Independent Distributor,150.8912395,-34.388685,Wollongong,New South Wales,Australia,Organization 1,"Sth Highlands, Shoalhaven & Illawarra"
+59,60,11000787,Customer 111,11000787,Company 67,Account 3,91363,91240,Foodservice,National Distributor,138.0291376,-33.1838961,Port Pirie City and Dists,South Australia,Australia,Organization 1,Barossa - Yorke - Mid North
+60,61,11000788,Customer 112,11000788,Company 68,Account 3,91363,91240,Foodservice,National Distributor,151.0141158,-33.8776663,Auburn,New South Wales,Australia,Organization 1,Greater Sydney
+61,62,11000800,Customer 114,11000800,Company 70,Account 4,91418,91295,Foodservice,National Distributor,152.4719361,-31.9014264,Greater Taree,New South Wales,Australia,Organization 1,Mid North Coast
+62,63,11000819,Customer 116,11000819,Company 72,Account 5,91401,91278,Foodservice,Independent Distributor,151.1055024,-34.0256225,Sutherland,New South Wales,Australia,Organization 1,Greater Sydney
+63,64,11000975,Customer 117,11000975,Company 73,Account 3,91363,91240,Foodservice,National Distributor,144.9336842,-37.7972939,Melbourne,Victoria,Australia,Organization 1,Greater Melbourne
+64,65,11001001,Customer 118,11001001,Company 74,Account 3,91363,91240,Foodservice,National Distributor,141.4250484,-31.9531869,Broken Hill,New South Wales,Australia,Organization 1,Far West and Orana
+65,66,11001010,Customer 120,11001010,Company 76,Account 3,91363,91240,Foodservice,National Distributor,151.0924466,-33.9439431,Hurstville,New South Wales,Australia,Organization 1,Greater Sydney
+66,67,11001011,Customer 121,11001011,Company 77,Account 3,91363,91240,Foodservice,National Distributor,153.1012828,-30.3130124,Coffs Harbour,New South Wales,Australia,Organization 1,Coffs Harbour - Grafton
+67,68,11001012,Customer 122,11001012,Company 78,Account 3,91363,91240,Foodservice,National Distributor,151.6315831,-32.8076623,Newcastle,New South Wales,Australia,Organization 1,Central Coast & Newcastle
+68,69,11001014,Customer 123,11001014,Company 79,Account 5,91401,91278,Foodservice,Independent Distributor,115.9291528,-31.9499011,Belmont,Western Australia,Australia,Organization 1,Perth
+69,70,11001015,Customer 124,11001015,Company 80,Account 3,91363,91240,Foodservice,National Distributor,145.194768,-38.0302523,Greater Dandenong,Victoria,Australia,Organization 1,Greater Melbourne
+70,71,11001019,Customer 125,11001019,Company 81,Account 8,91353,91230,Grocery,National Distributor,115.8217492,-31.8614967,Stirling,Western Australia,Australia,Organization 1,Perth
+71,72,11001020,Customer 126,11001020,Company 82,Account 8,91353,91230,Grocery,National Distributor,115.9130318,-32.0668743,Canning,Western Australia,Australia,Organization 1,Perth
+72,73,11001028,Customer 127,11001028,Company 83,Account 3,91363,91240,Foodservice,National Distributor,145.1819563,-38.2190983,Mornington Peninsula,Victoria,Australia,Organization 1,Greater Melbourne
+73,74,11001032,Customer 128,11001032,Company 84,Account 3,91363,91240,Foodservice,National Distributor,147.4097499,-35.1289401,Wagga Wagga,New South Wales,Australia,Organization 1,Riverina
+74,75,11001049,Customer 129,11001049,Company 85,Account 4,91418,91295,Foodservice,National Distributor,151.0844151,-33.723173,Hornsby,New South Wales,Australia,Organization 1,Greater Sydney
+75,76,11001050,Customer 130,11001050,Company 86,Account 4,91418,91295,Foodservice,National Distributor,151.6978187,-32.9906474,Lake Macquarie,New South Wales,Australia,Organization 1,Central Coast & Newcastle
+76,77,11001055,Customer 132,11001055,Company 88,Account 4,91418,91295,Foodservice,National Distributor,145.218178,-37.897224,Knox,Victoria,Australia,Organization 1,Greater Melbourne
+77,78,11001159,Customer 134,11001159,Company 90,Account 3,91363,91240,Foodservice,National Distributor,144.7281494,-37.8658639,Wyndham,Victoria,Australia,Organization 1,Greater Melbourne
+78,79,11001168,Customer 136,11001168,Company 92,Account 4,91418,91295,Foodservice,National Distributor,148.6314753,-32.2466559,Dubbo,New South Wales,Australia,Organization 1,Far West and Orana
+79,80,11001190,Customer 139,11001190,Company 95,Account 3,91363,91240,Foodservice,National Distributor,153.3471521,-27.997073,Gold Coast,Queensland,Australia,Organization 1,Gold Coast
+80,81,11001191,Customer 140,11001191,Company 96,Account 3,91363,91240,Foodservice,National Distributor,146.7297256,-19.2580017,Townsville,Queensland,Australia,Organization 1,Townsville
+81,82,11001192,Customer 141,11001192,Company 97,Account 3,91363,91240,Foodservice,National Distributor,145.7703923,-16.9410645,Cairns,Queensland,Australia,Organization 1,Cairns
+82,83,11001193,Customer 142,11001193,Company 98,Account 3,91363,91240,Foodservice,National Distributor,153.0325361,-26.6648371,Sunshine Coast,Queensland,Australia,Organization 1,Sunshine Coast & Wide Bay
+83,84,11001194,Customer 143,11001194,Company 99,Account 4,91418,91295,Foodservice,National Distributor,153.2475926,-27.7610578,Gold Coast,Queensland,Australia,Organization 1,Gold Coast
+84,85,11001214,Customer 144,11001214,Company 100,Account 5,91401,91278,Foodservice,Independent Distributor,150.8888331,-33.8515351,Fairfield,New South Wales,Australia,Organization 1,Greater Sydney
+85,86,11001230,Customer 145,11001230,Company 101,Account 3,91363,91240,Foodservice,National Distributor,152.8398507,-25.2874777,Fraser Coast,Queensland,Australia,Organization 1,Sunshine Coast & Wide Bay
+86,87,11001233,Customer 146,11001233,Company 102,Account 3,91363,91240,Foodservice,National Distributor,116.177807,-31.9038208,Mundaring,Western Australia,Australia,Organization 1,Perth
+87,88,11001240,Customer 147,11001240,Company 103,Account 3,91363,91240,Foodservice,National Distributor,150.9527353,-33.8507077,Holroyd,New South Wales,Australia,Organization 1,Greater Sydney
+88,89,11001290,Customer 148,11001290,Company 104,Account 8,91353,91230,Grocery,National Distributor,133.865755,-23.6942001,Alice Springs,Northern Territory,Australia,Organization 1,Northern Territory - Outback
+89,90,11001291,Customer 149,11001291,Company 105,Account 8,91353,91230,Grocery,National Distributor,130.9182128,-12.470807,Unincorporated Norther Territories,Northern Territory,Australia,Organization 1,Darwin
+90,91,11001301,Customer 150,11001301,Company 106,Account 4,91418,91295,Foodservice,National Distributor,150.9013804,-33.8410963,Fairfield,New South Wales,Australia,Organization 1,Greater Sydney
+91,92,11001323,Customer 151,11001323,Company 107,Account 5,91401,91278,Foodservice,Independent Distributor,116.1441495,-34.2426601,Manjimup,Western Australia,Australia,Organization 1,Mandurah & Bunbury
+92,93,11001331,Customer 152,11001331,Company 108,Account 3,91363,91240,Foodservice,National Distributor,145.583916541926,-35.6394867252742,Berrigan,New South Wales,Australia,,Murray
+93,94,11001372,Customer 154,11001372,Company 110,Account 3,91363,91240,Foodservice,National Distributor,153.0632,-27.3983464,Brisbane,Queensland,Australia,Organization 1,Greater Brisbane
+94,95,11001374,Customer 155,11001374,Company 111,Account 5,91401,91278,Foodservice,Independent Distributor,138.6530259,-34.8957346,Norwood Payneham St Peters,South Australia,Australia,Organization 1,Adelaide
+95,96,11001396,Customer 156,11001396,Company 112,Account 3,91363,91240,Foodservice,National Distributor,150.853244,-34.4557672,Wollongong,New South Wales,Australia,Organization 1,"Sth Highlands, Shoalhaven & Illawarra"
+96,97,11001430,Customer 157,11001430,Company 113,Account 3,91363,91240,Foodservice,National Distributor,142.1618987,-34.1881591,Mildura,Victoria,Australia,Organization 1,North West
+97,98,11001432,Customer 158,11001432,Company 114,Account 3,91363,91240,Foodservice,National Distributor,151.2675198,-33.7902073,Manly,New South Wales,Australia,Organization 1,Greater Sydney
+98,99,11001439,Customer 159,11001439,Company 115,Account 3,91363,91240,Foodservice,National Distributor,153.0527301,-26.3992678,Sunshine Coast,Queensland,Australia,Organization 1,Sunshine Coast & Wide Bay
+99,100,11001440,Customer 160,11001440,Company 116,Account 3,91363,91240,Foodservice,National Distributor,150.9363098,-33.930561,Liverpool,New South Wales,Australia,Organization 1,Greater Sydney
+100,101,11001450,Customer 161,11001450,Company 117,Account 3,91363,91240,Foodservice,National Distributor,145.7550351,-16.9415648,Cairns,Queensland,Australia,Organization 1,Cairns
+101,102,11001452,Customer 162,11001452,Company 118,Account 4,91418,91295,Foodservice,National Distributor,144.7495117,-37.7805175,Melton,Victoria,Australia,Organization 1,Greater Melbourne
+102,103,11001484,Customer 163,11001484,Company 119,Account 3,91363,91240,Foodservice,National Distributor,114.6336603,-28.7624443,Geraldton-Greenough,Western Australia,Australia,Organization 1,Western Australia - Outback (South)
+103,104,11001489,Customer 164,11001489,Company 120,Account 12,91412,91289,Foodservice,Global QSR Distributor,138.5924261,-34.8447741,Port Adelaide Enfield,South Australia,Australia,Organization 1,Adelaide
+104,105,11001490,Customer 165,11001490,Company 121,Account 12,91412,91289,Foodservice,Global QSR Distributor,145.244993,-38.0035465,Greater Dandenong,Victoria,Australia,Organization 1,Greater Melbourne
+105,106,11001491,Customer 166,11001491,Company 122,Account 12,91412,91289,Foodservice,Global QSR Distributor,115.86838,-32.12392,Cockburn,Western Australia,Australia,Organization 1,Perth
+106,107,11001494,Customer 167,11001494,Company 123,Account 12,91412,91289,Foodservice,Global QSR Distributor,150.8760197,-33.8471963,Fairfield,New South Wales,Australia,Organization 1,Greater Sydney
+107,108,11001500,Customer 171,11001500,Company 127,Account 12,91412,91289,Foodservice,Global QSR Distributor,153.0026721,-27.5399999,Brisbane,Queensland,Australia,Organization 1,Greater Brisbane
+108,109,11001502,Customer 173,11001502,Company 129,Account 13,91411,91288,Foodservice,Global QSR Distributor,145.244993,-38.0035465,Greater Dandenong,Victoria,Australia,Organization 1,Greater Melbourne
+109,110,11001507,Customer 174,11001507,Company 130,Account 3,91363,91240,Foodservice,National Distributor,144.821277,-37.834287,Hobsons Bay,Victoria,Australia,Organization 1,Greater Melbourne
+110,111,11001537,Customer 176,11001537,Company 132,Account 3,91363,91240,Foodservice,National Distributor,150.878562,-33.8476651,Fairfield,New South Wales,Australia,Organization 1,Greater Sydney
+111,112,11001538,Customer 177,11001538,Company 133,Account 4,91418,91295,Foodservice,National Distributor,145.1678097,-37.749515,Manningham,Victoria,Australia,Organization 1,Greater Melbourne
+112,113,11001552,Customer 179,11001552,Company 135,Account 3,91363,91240,Foodservice,National Distributor,148.653215,-32.262841,Dubbo,New South Wales,Australia,Organization 1,Far West and Orana
+113,114,11001597,Customer 181,11001597,Company 137,Account 4,91418,91295,Foodservice,National Distributor,140.7541846,-37.8224083,Mount Gambier,South Australia,Australia,Organization 1,South Australia - South East
+114,115,11001622,Customer 182,11001622,Company 138,Account 3,91363,91240,Foodservice,National Distributor,143.84917,-37.5217186,Ballarat,Victoria,Australia,Organization 1,Ballarat & Geelong
+115,116,11001632,Customer 183,11001632,Company 139,Account 4,91418,91295,Foodservice,National Distributor,115.8817294,-31.8556327,Swan,Western Australia,Australia,Organization 1,Perth
+116,117,11001637,Customer 184,11001637,Company 140,Account 5,91401,91278,Foodservice,Independent Distributor,151.1891464,-33.9287465,Botany Bay,New South Wales,Australia,Organization 1,Greater Sydney
+117,118,11001662,Customer 186,11001662,Company 142,Account 3,91363,91240,Foodservice,National Distributor,153.09349,-26.65521,Sunshine Coast,Queensland,Australia,,Sunshine Coast & Wide Bay
+118,119,11001688,Customer 188,11001688,Company 144,Account 3,91363,91240,Foodservice,National Distributor,151.0356506,-33.9448193,Bankstown,New South Wales,Australia,Organization 1,Greater Sydney
+119,120,11001717,Customer 190,11001717,Company 146,Account 14,91437,91314,Foodservice,National Distributor,115.6912218,-33.3504758,Bunbury,Western Australia,Australia,Organization 1,Mandurah & Bunbury
+120,121,11001722,Customer 191,11001722,Company 147,Account 14,91437,91314,Foodservice,National Distributor,138.5550635,-34.9141065,West Torrens,South Australia,Australia,Organization 1,Adelaide
+121,122,11001723,Customer 775,11001723,Company 435,Account 14,91437,91314,Foodservice,National Distributor,146.944491037607,-36.0611342154728,Albury,New South Wales,Australia,,Murray
+122,123,11001725,Customer 192,11001725,Company 148,Account 14,91437,91314,Foodservice,National Distributor,144.3354694,-36.7447154,Greater Bendigo,Victoria,Australia,Organization 1,Bendigo
+123,124,11001726,Customer 193,11001726,Company 149,Account 14,91437,91314,Foodservice,National Distributor,145.7657308,-16.9475772,Cairns,Queensland,Australia,Organization 1,Cairns
+124,125,11001727,Customer 194,11001727,Company 150,Account 14,91437,91314,Foodservice,National Distributor,146.3295313,-41.1834345,Devonport,Tasmania,Australia,Organization 1,West and North West
+125,126,11001728,Customer 195,11001728,Company 151,Account 14,91437,91314,Foodservice,National Distributor,147.3082081,-42.8287848,Glenorchy,Tasmania,Australia,Organization 1,Hobart & South East
+126,127,11001729,Customer 196,11001729,Company 152,Account 14,91437,91314,Foodservice,National Distributor,147.1533071,-41.4796401,Launceston,Tasmania,Australia,Organization 1,Launceston and North East
+127,128,11001739,Customer 197,11001739,Company 153,Account 14,91437,91314,Foodservice,National Distributor,142.4534772,-38.3688049,Warrnambool,Victoria,Australia,Organization 1,Warrnambool and South West
+128,129,11001740,Customer 198,11001740,Company 154,Account 14,91437,91314,Foodservice,National Distributor,145.248402704135,-37.8990117031611,Knox,Victoria,Australia,,Greater Melbourne
+129,130,11001741,Customer 199,11001741,Company 155,Account 14,91437,91314,Foodservice,National Distributor,150.8915956,-34.3860566,Wollongong,New South Wales,Australia,Organization 1,"Sth Highlands, Shoalhaven & Illawarra"
+130,131,11001743,Customer 200,11001743,Company 156,Account 14,91437,91314,Foodservice,National Distributor,153.1460798,-27.4291658,Brisbane,Queensland,Australia,Organization 1,Greater Brisbane
+131,132,11001744,Customer 201,11001744,Company 157,Account 14,91437,91314,Foodservice,National Distributor,149.150162,-35.3206968,Unincorporated Australian Capital Territory,Australian Capital Territory,Australia,Organization 1,Australian Capital Territory
+132,133,11001747,Customer 202,11001747,Company 158,Account 14,91437,91314,Foodservice,National Distributor,153.263668,-28.824249,Lismore,New South Wales,Australia,Organization 1,Richmond - Tweed
+133,134,11001748,Customer 203,11001748,Company 159,Account 14,91437,91314,Foodservice,National Distributor,149.2155762,-21.0899236,Mackay,Queensland,Australia,Organization 1,Mackay - Isaac - Whitsunday
+134,135,11001749,Customer 204,11001749,Company 160,Account 14,91437,91314,Foodservice,National Distributor,152.9714198,-26.6828861,Sunshine Coast,Queensland,Australia,Organization 1,Sunshine Coast & Wide Bay
+135,136,11001751,Customer 205,11001751,Company 161,Account 14,91437,91314,Foodservice,National Distributor,150.5118548,-23.3380871,Rockhampton,Queensland,Australia,Organization 1,Central Queensland
+136,137,11001754,Customer 206,11001754,Company 162,Account 14,91437,91314,Foodservice,National Distributor,121.4679069,-30.748366,Kalgoorlie/Boulder,Western Australia,Australia,Organization 1,Western Australia - Outback (South)
+137,138,11001755,Customer 207,11001755,Company 163,Account 14,91437,91314,Foodservice,National Distributor,152.8862168,-31.4469686,Port Macquarie-Hastings,New South Wales,Australia,Organization 1,Mid North Coast
+138,139,11001756,Customer 208,11001756,Company 164,Account 14,91437,91314,Foodservice,National Distributor,151.7124853,-32.8762563,Newcastle,New South Wales,Australia,Organization 1,Central Coast & Newcastle
+139,140,11001757,Customer 209,11001757,Company 165,Account 14,91437,91314,Foodservice,National Distributor,115.8672408,-32.1241114,Cockburn,Western Australia,Australia,Organization 1,Perth
+140,141,11001759,Customer 210,11001759,Company 166,Account 14,91437,91314,Foodservice,National Distributor,153.5287556,-28.1769327,Tweed,New South Wales,Australia,Organization 1,Richmond - Tweed
+141,142,11001780,Customer 211,11001780,Company 167,Account 3,91363,91240,Foodservice,National Distributor,115.8413035,-31.9216881,Vincent,Western Australia,Australia,Organization 1,Perth
+142,143,11001783,Customer 212,11001783,Company 168,Account 3,91363,91240,Foodservice,National Distributor,151.0403126,-33.8321513,Auburn,New South Wales,Australia,Organization 1,Greater Sydney
+143,144,11001799,Customer 213,11001799,Company 169,Account 4,91418,91295,Foodservice,National Distributor,151.3125993,-33.4284718,Gosford,New South Wales,Australia,Organization 1,Central Coast & Newcastle
+144,145,11001805,Customer 215,11001805,Company 171,Account 3,91363,91240,Foodservice,National Distributor,151.897965,-27.5549902,Toowoomba,Queensland,Australia,Organization 1,"Darling Downs, Maranoa & Toowoomba"
+145,146,11001813,Customer 216,11001813,Company 172,Account 3,91363,91240,Foodservice,National Distributor,153.1041879,-27.4242549,Brisbane,Queensland,Australia,Organization 1,Greater Brisbane
+146,147,11001816,Customer 218,11001816,Company 174,Account 3,91363,91240,Foodservice,National Distributor,152.9473307,-27.5668265,Brisbane,Queensland,Australia,Organization 1,Greater Brisbane
+147,148,11001826,Customer 219,11001826,Company 175,Account 3,91363,91240,Foodservice,National Distributor,151.7059313,-32.9408412,Newcastle,New South Wales,Australia,Organization 1,Central Coast & Newcastle
+148,149,11001827,Customer 220,11001827,Company 176,Account 5,91401,91278,Foodservice,Independent Distributor,145.2727358,-38.0195593,Casey,Victoria,Australia,Organization 1,Greater Melbourne
+149,150,11001834,Customer 221,11001834,Company 177,Account 3,91363,91240,Foodservice,National Distributor,145.2552125,-37.896112,Knox,Victoria,Australia,Organization 1,Greater Melbourne
+150,151,11001858,Customer 222,11001858,Company 178,Account 3,91363,91240,Foodservice,National Distributor,152.3308939,-24.8927345,Bundaberg,Queensland,Australia,Organization 1,Sunshine Coast & Wide Bay
+151,152,11001886,Customer 223,11001886,Company 179,Account 4,91418,91295,Foodservice,National Distributor,145.0432021,-37.7288207,Banyule,Victoria,Australia,Organization 1,Greater Melbourne
+152,153,11001895,Customer 224,11001895,Company 180,Account 5,91401,91278,Foodservice,Independent Distributor,150.1770029,-35.7195251,Eurobodalla,New South Wales,Australia,Organization 1,Capital Region
+153,154,11001927,Customer 225,11001927,Company 181,Account 4,91418,91295,Foodservice,National Distributor,138.566669,-34.8512357,Port Adelaide Enfield,South Australia,Australia,Organization 1,Adelaide
+154,155,11001930,Customer 226,11001930,Company 182,Account 4,91418,91295,Foodservice,National Distributor,151.0229997,-33.8303072,Parramatta,New South Wales,Australia,Organization 1,Greater Sydney
+155,156,11001934,Customer 227,11001934,Company 183,Account 3,91363,91240,Foodservice,National Distributor,115.8240324,-32.1022549,Cockburn,Western Australia,Australia,Organization 1,Perth
+156,157,11001936,Customer 228,11001936,Company 184,Account 4,91418,91295,Foodservice,National Distributor,133.8708668,-23.6976117,Alice Springs,Northern Territory,Australia,Organization 1,Northern Territory - Outback
+157,158,11001942,Customer 229,11001942,Company 185,Account 3,91363,91240,Foodservice,National Distributor,121.8988566,-33.8390027,Esperance,Western Australia,Australia,Organization 1,Western Australia - Outback (South)
+158,159,11001943,Customer 230,11001943,Company 186,Account 3,91363,91240,Foodservice,National Distributor,147.2672537,-42.8367405,Glenorchy,Tasmania,Australia,Organization 1,Hobart & South East
+159,160,11001944,Customer 231,11001944,Company 187,Account 4,91418,91295,Foodservice,National Distributor,149.72068,-34.7490389,Goulburn Mulwaree,New South Wales,Australia,Organization 1,Capital Region
+160,161,11001981,Customer 233,11001981,Company 189,Account 3,91363,91240,Foodservice,National Distributor,115.823524,-32.0387401,Melville,Western Australia,Australia,Organization 1,Perth
+161,162,11001990,Customer 234,11001990,Company 190,Account 4,91418,91295,Foodservice,National Distributor,151.0947024,-33.9377861,Canterbury,New South Wales,Australia,Organization 1,Greater Sydney
+162,163,11001991,Customer 235,11001991,Company 191,Account 4,91418,91295,Foodservice,National Distributor,115.6812896,-33.364994,Bunbury,Western Australia,Australia,Organization 1,Mandurah & Bunbury
+163,164,11002043,Customer 236,11002043,Company 192,Account 3,91363,91240,Foodservice,National Distributor,147.2973856,-42.8438808,Glenorchy,Tasmania,Australia,Organization 1,Hobart & South East
+164,165,11002044,Customer 237,11002044,Company 193,Account 3,91363,91240,Foodservice,National Distributor,147.1376383,-41.4728786,Launceston,Tasmania,Australia,Organization 1,Launceston and North East
+165,166,11002058,Customer 238,11002058,Company 194,Account 3,91363,91240,Foodservice,National Distributor,150.8559385,-33.7543016,Blacktown,New South Wales,Australia,Organization 1,Greater Sydney
+166,167,11002080,Customer 240,11002080,Company 196,Account 3,91363,91240,Foodservice,National Distributor,145.0994765,-37.9310466,Kingston,Victoria,Australia,Organization 1,Greater Melbourne
+167,168,11002081,Customer 241,11002081,Company 197,Account 3,91363,91240,Foodservice,National Distributor,150.8486641,-34.0056692,Campbelltown,New South Wales,Australia,Organization 1,Greater Sydney
+168,169,11002082,Customer 242,11002082,Company 198,Account 3,91363,91240,Foodservice,National Distributor,146.9135586,-36.0945052,Albury,New South Wales,Australia,Organization 1,Murray
+169,170,11002083,Customer 243,11002083,Company 199,Account 3,91363,91240,Foodservice,National Distributor,115.8581282,-31.788439,Wanneroo,Western Australia,Australia,Organization 1,Perth
+170,171,11002084,Customer 244,11002084,Company 200,Account 4,91418,91295,Foodservice,National Distributor,148.3817926,-30.9570318,Coonamble,New South Wales,Australia,Organization 1,Far West and Orana
+171,172,11002088,Customer 246,11002088,Company 202,Account 4,91418,91295,Foodservice,National Distributor,150.925395,-33.8348253,Holroyd,New South Wales,Australia,Organization 1,Greater Sydney
+172,173,11002089,Customer 247,11002089,Company 203,Account 3,91363,91240,Foodservice,National Distributor,151.0504053,-33.9410813,Canterbury,New South Wales,Australia,Organization 1,Greater Sydney
+173,174,11002142,Customer 249,11002142,Company 205,Account 3,91363,91240,Foodservice,National Distributor,140.7506856,-37.8205121,Mount Gambier,South Australia,Australia,Organization 1,South Australia - South East
+174,175,11002170,Customer 250,11002170,Company 206,Account 4,91418,91295,Foodservice,National Distributor,114.636316,-28.7584939,Geraldton-Greenough,Western Australia,Australia,Organization 1,Western Australia - Outback (South)
+175,176,11002200,Customer 251,11002200,Company 207,Account 3,91363,91240,Foodservice,National Distributor,145.115004,-37.984727,Kingston,Victoria,Australia,Organization 1,Greater Melbourne
+176,177,11002205,Customer 252,11002205,Company 208,Account 3,91363,91240,Foodservice,National Distributor,150.8728827773,-33.9893939597483,Campbelltown,New South Wales,Australia,,Greater Sydney
+177,178,11002208,Customer 253,11002208,Company 209,Account 3,91363,91240,Foodservice,National Distributor,130.8578705,-12.4324546,Darwin,Northern Territory,Australia,Organization 1,Darwin
+178,179,11002234,Customer 254,11002234,Company 210,Account 4,91418,91295,Foodservice,National Distributor,115.8462151,-31.8031725,Wanneroo,Western Australia,Australia,Organization 1,Perth
+179,180,11002257,Customer 257,11002257,Company 213,Account 4,91418,91295,Foodservice,National Distributor,148.6156821,-27.1149082,Maranoa,Queensland,Australia,Organization 1,"Darling Downs, Maranoa & Toowoomba"
+180,181,11002258,Customer 258,11002258,Company 214,Account 3,91363,91240,Foodservice,National Distributor,115.813315,-32.1109809,Cockburn,Western Australia,Australia,Organization 1,Perth
+181,182,11002262,Customer 259,11002262,Company 215,Account 3,91363,91240,Foodservice,National Distributor,148.672409,-20.2917518,Whitsunday,Queensland,Australia,Organization 1,Mackay - Isaac - Whitsunday
+182,183,11002427,Customer 273,11000739,Company 63,Account 4,91418,91295,Foodservice,National Distributor,150.90768913315,-33.8430232991665,Fairfield,New South Wales,Australia,,Greater Sydney
+183,184,11002519,Customer 279,11001526,Company 225,Account 18,91413,91290,Grocery,Supermarkets,115.9019952,-32.0676391,Canning,Western Australia,Australia,Organization 1,Perth
+184,185,11002522,Customer 282,11001520,Company 227,Account 18,91413,91290,Grocery,Supermarkets,138.5999243,-34.8395726,Port Adelaide Enfield,South Australia,Australia,Organization 1,Adelaide
+185,186,11002523,Customer 283,11001525,Company 231,Account 18,91413,91290,Grocery,Supermarkets,144.7813475,-37.8333439,Wyndham,Victoria,Australia,Organization 1,Greater Melbourne
+186,187,11002547,Customer 287,11001662,Company 142,Account 3,91363,91240,Foodservice,National Distributor,153.0336575,-26.6596895,Sunshine Coast,Queensland,Australia,Organization 1,Sunshine Coast & Wide Bay
+187,188,11002554,Customer 288,11001699,Company 232,Account 5,91401,91278,Foodservice,Independent Distributor,151.0612362,-33.8551133,Auburn,New South Wales,Australia,Organization 1,Greater Sydney
+188,189,11002559,Customer 289,11001716,Company 233,Account 14,91437,91314,Foodservice,National Distributor,114.641386,-28.7593486,Geraldton-Greenough,Western Australia,Australia,Organization 1,Western Australia - Outback (South)
+189,190,11002569,Customer 290,11001758,Company 234,Account 14,91437,91314,Foodservice,National Distributor,151.9218557,-27.5864428,Toowoomba,Queensland,Australia,Organization 1,"Darling Downs, Maranoa & Toowoomba"
+190,191,11002571,Customer 291,11001752,Company 235,Account 14,91437,91314,Foodservice,National Distributor,146.8328193,-19.2679169,Townsville,Queensland,Australia,Organization 1,Townsville
+191,192,11002626,Customer 304,11002351,Company 239,Account 20,91475,91352,Grocery,Supermarkets,146.721094,-36.076072,Wodonga,Victoria,Australia,Organization 1,Hume
+192,193,11002763,Customer 310,11002763,Company 242,Account 5,91401,91278,Foodservice,Independent Distributor,149.1485445,-35.3206714,Unincorporated Australian Capital Territory,Australian Capital Territory,Australia,Organization 1,Australian Capital Territory
+193,194,11002912,Customer 313,11002912,Company 245,Account 4,91418,91295,Foodservice,National Distributor,130.8908906,-12.4283177,Darwin,Northern Territory,Australia,Organization 1,Darwin
+194,195,12000258,Customer 345,12000258,Company 267,Account 3,91363,91240,Foodservice,National Distributor,115.9295224,-32.0600496,Canning,Western Australia,Australia,Organization 1,Perth
+195,196,14000909,Customer 385,14000909,Company 295,Account 8,91353,91230,Grocery,National Distributor,153.0890435,-27.4236996,Brisbane,Queensland,Australia,Organization 1,Greater Brisbane
+196,197,14001167,Customer 386,14001167,Company 296,Account 5,91401,91278,Foodservice,Independent Distributor,151.1665902,-33.906116,Marrickville,New South Wales,Australia,Organization 1,Greater Sydney
+197,198,14001282,Customer 388,14001282,Company 298,Account 14,91437,91314,Foodservice,National Distributor,130.8654557,-12.4277661,Darwin,Northern Territory,Australia,Organization 1,Darwin
+198,199,14001287,Customer 781,14001287,Company 440,Account 14,91437,91314,Foodservice,National Distributor,133.866242214044,-23.6721266916358,Alice Springs,Northern Territory,Australia,,Northern Territory - Outback
+199,200,14001343,Customer 389,14001343,Company 299,Account 3,91363,91240,Foodservice,National Distributor,151.1257476,-34.0211637,Sutherland,New South Wales,Australia,Organization 1,Greater Sydney
+200,201,14001378,Customer 390,14001378,Company 300,Account 3,91363,91240,Foodservice,National Distributor,144.9488373,-37.6167416,Hume,Victoria,Australia,Organization 1,Greater Melbourne
+201,202,14001505,Customer 392,14001505,Company 301,Account 3,91363,91240,Foodservice,National Distributor,149.8565415,-29.4922166,Moree Plains,New South Wales,Australia,Organization 1,New England and North West
+202,203,14001633,Customer 396,14001633,Company 304,Account 3,91363,91240,Foodservice,National Distributor,153.0405898,-26.6607075,Sunshine Coast,Queensland,Australia,Organization 1,Sunshine Coast & Wide Bay
+203,204,14001726,Customer 397,14001726,Company 305,Account 3,91363,91240,Foodservice,National Distributor,153.1131068,-27.473266,Brisbane,Queensland,Australia,Organization 1,Greater Brisbane
+204,205,14001727,Customer 398,14001727,Company 306,Account 14,91437,91314,Foodservice,National Distributor,137.5302209,-33.0321659,Whyalla,South Australia,Australia,Organization 1,South Australia - Outback
+205,206,14002075,Customer 401,14002075,Company 308,Account 4,91418,91295,Foodservice,National Distributor,144.9449316,-37.6147202,Hume,Victoria,Australia,Organization 1,Greater Melbourne
+206,207,14002286,Customer 403,14002286,Company 309,Account 4,91418,91295,Foodservice,National Distributor,150.579432,-34.9100273,Shoalhaven,New South Wales,Australia,Organization 1,"Sth Highlands, Shoalhaven & Illawarra"
+207,208,14002775,Customer 405,14002775,Company 311,Account 5,91401,91278,Foodservice,Independent Distributor,143.5389062,-38.3345752,Colac-Otway,Victoria,Australia,Organization 1,Warrnambool and South West
+208,209,14003642,Customer 406,14003642,Company 312,Account 11,91379,91256,Foodservice,Global QSR Distributor,115.990337,-31.9723682,Kalamunda,Western Australia,Australia,Organization 1,Perth
+209,210,14004202,Customer 410,14004202,Company 314,Account 4,91418,91295,Foodservice,National Distributor,151.0263005,-33.8328549,Parramatta,New South Wales,Australia,Organization 1,Greater Sydney
+210,211,14004453,Customer 413,11001518,Company 230,Account 18,91413,91290,Grocery,Supermarkets,150.8689319,-33.7976471,Blacktown,New South Wales,Australia,Organization 1,Greater Sydney
+211,212,14004497,Customer 415,11001519,Company 229,Account 18,91413,91290,Grocery,Supermarkets,153.0762567,-27.6867307,Logan,Queensland,Australia,Organization 1,Greater Brisbane
+212,213,14004571,Customer 416,14004571,Company 317,Account 3,91363,91240,Foodservice,National Distributor,147.3698233,-35.1180361,Wagga Wagga,New South Wales,Australia,Organization 1,Riverina
+213,214,14004724,Customer 419,11001780,Company 167,Account 3,91363,91240,Foodservice,National Distributor,115.234630329178,-33.6803964821996,Busselton,Western Australia,Australia,,Mandurah & Bunbury
+214,215,14004875,Customer 421,14004875,Company 320,Account 3,91363,91240,Foodservice,National Distributor,150.9080897,-31.0925775,Tamworth Regional,New South Wales,Australia,Organization 1,New England and North West
+215,216,14004986,Customer 422,14004986,Company 321,Account 3,91363,91240,Foodservice,National Distributor,117.8422699,-35.0151274,Albany,Western Australia,Australia,Organization 1,Western Australia - Wheat Belt
+216,217,14004987,Customer 423,14004987,Company 322,Account 14,91437,91314,Foodservice,National Distributor,148.1657151,-33.1477323,Parkes,New South Wales,Australia,Organization 1,Central West
+217,218,14005521,Customer 429,14005521,Company 325,Account 3,91363,91240,Foodservice,National Distributor,150.5253302,-23.3571768,Rockhampton,Queensland,Australia,Organization 1,Central Queensland
+218,219,14005683,Customer 431,14005683,Company 327,Account 3,91363,91240,Foodservice,National Distributor,151.2149176,-33.9448667,Botany Bay,New South Wales,Australia,Organization 1,Greater Sydney
+219,220,14005784,Customer 435,11001439,Company 115,Account 3,91363,91240,Foodservice,National Distributor,153.0460865,-26.4173045,Sunshine Coast,Queensland,Australia,Organization 1,Sunshine Coast & Wide Bay
+220,221,14005838,Customer 436,14005838,Company 331,Account 3,91363,91240,Foodservice,National Distributor,138.5848536,-34.8426466,Port Adelaide Enfield,South Australia,Australia,Organization 1,Adelaide
+221,222,14005855,Customer 437,14005855,Company 332,Account 6,91346,91223,Foodservice,National Distributor,148.1447096,-23.5254838,Central Highlands,Queensland,Australia,Organization 1,Central Queensland
+222,223,14005862,Customer 438,14005862,Company 333,Account 3,91363,91240,Foodservice,National Distributor,152.9904625,-27.5592321,Brisbane,Queensland,Australia,Organization 1,Greater Brisbane
+223,224,14005935,Customer 440,11001374,Company 111,Account 5,91401,91278,Foodservice,Independent Distributor,138.6525559,-34.8957553,Norwood Payneham St Peters,South Australia,Australia,Organization 1,Adelaide
+224,225,14005956,Customer 441,11001783,Company 168,Account 3,91363,91240,Foodservice,National Distributor,151.4529412,-33.2652121,Wyong,New South Wales,Australia,Organization 1,Central Coast & Newcastle
+225,226,14005962,Customer 442,14005962,Company 335,Account 3,91363,91240,Foodservice,National Distributor,128.7352438,-15.7804986,Wyndham-East Kimberley,Western Australia,Australia,Organization 1,Western Australia - Outback (North)
+226,227,14005969,Customer 443,14005969,Company 336,Account 14,91437,91314,Foodservice,National Distributor,140.7588123,-37.8261246,Mount Gambier,South Australia,Australia,Organization 1,South Australia - South East
+227,228,14005970,Customer 444,14005970,Company 337,Account 14,91437,91314,Foodservice,National Distributor,142.1762044,-34.1961752,Mildura,Victoria,Australia,Organization 1,North West
+228,229,14006180,Customer 448,14006180,Company 340,Account 14,91437,91314,Foodservice,National Distributor,117.8590489,-35.0222514,Albany,Western Australia,Australia,Organization 1,Western Australia - Wheat Belt
+229,230,14006266,Customer 450,14006266,Company 342,Account 14,91437,91314,Foodservice,National Distributor,149.5830533,-33.4309816,Bathurst,New South Wales,Australia,Organization 1,Central West
+230,231,14006267,Customer 451,14006267,Company 343,Account 14,91437,91314,Foodservice,National Distributor,149.6013038,-32.6076733,Mid-Western Regional,New South Wales,Australia,Organization 1,Central West
+231,232,14006329,Customer 454,14006329,Company 345,Account 4,91418,91295,Foodservice,National Distributor,151.1532688,-33.9102339,Marrickville,New South Wales,Australia,Organization 1,Greater Sydney
+232,233,14006727,Customer 462,14006727,Company 352,Account 3,91363,91240,Foodservice,National Distributor,143.5516031,-35.3273513,Swan Hill,Victoria,Australia,Organization 1,North West
+233,234,14007632,Customer 469,14007632,Company 355,Account 3,91363,91240,Foodservice,National Distributor,115.9214377,-31.9079016,Bayswater,Western Australia,Australia,Organization 1,Perth
+234,235,14007979,Customer 471,14007979,Company 356,Account 14,91437,91314,Foodservice,National Distributor,152.3514148,-24.8892976,Bundaberg,Queensland,Australia,Organization 1,Sunshine Coast & Wide Bay
+235,236,14008953,Customer 478,11002080,Company 196,Account 3,91363,91240,Foodservice,National Distributor,145.0994765,-37.9310466,Kingston,Victoria,Australia,Organization 1,Greater Melbourne
+236,237,14009181,Customer 484,14009181,Company 361,Account 11,91379,91256,Foodservice,Global QSR Distributor,138.6134409,-34.827917,Salisbury,South Australia,Australia,Organization 1,Adelaide
+237,238,14009393,Customer 485,11002351,Company 239,Account 20,91475,91352,Grocery,Supermarkets,144.802213,-37.815071,Wyndham,Victoria,Australia,Organization 1,Greater Melbourne
+238,239,14009555,Customer 489,14009555,Company 362,Account 6,91346,91223,Foodservice,National Distributor,144.7449319,-37.8180918,Wyndham,Victoria,Australia,Organization 1,Greater Melbourne
+239,240,14009724,Customer 493,14009724,Company 364,Account 5,91401,91278,Foodservice,Independent Distributor,147.379838,-35.1212965,Wagga Wagga,New South Wales,Australia,Organization 1,Riverina
+240,241,14009735,Customer 494,14009735,Company 365,Account 3,91363,91240,Foodservice,National Distributor,153.0976621,-30.3581525,Coffs Harbour,New South Wales,Australia,Organization 1,Coffs Harbour - Grafton
+241,242,14009905,Customer 496,14009905,Company 367,Account 6,91346,91223,Foodservice,National Distributor,152.8879001,-31.449768,Port Macquarie-Hastings,New South Wales,Australia,Organization 1,Mid North Coast
+242,243,14010213,Customer 498,14010213,Company 368,Account 6,91346,91223,Foodservice,National Distributor,144.9262574,-37.8288158,Port Melbourne,Victoria,Australia,Organization 1,Greater Melbourne
+243,244,14010585,Customer 501,14010585,Company 370,Account 3,91363,91240,Foodservice,National Distributor,145.0073781,-37.8101346,Yarra,Victoria,Australia,Organization 1,Greater Melbourne
+244,245,14010642,Customer 502,14010642,Company 371,Account 3,91363,91240,Foodservice,National Distributor,149.1514163,-21.1877971,Mackay,Queensland,Australia,Organization 1,Mackay - Isaac - Whitsunday
+245,246,14010713,Customer 505,14010713,Company 373,Account 6,91346,91223,Foodservice,National Distributor,147.1928907,-41.5384813,Northern Midlands,Tasmania,Australia,Organization 1,Launceston and North East
+246,247,14010865,Customer 507,14010865,Company 375,Account 6,91346,91223,Foodservice,National Distributor,153.2206939,-27.7325798,Gold Coast,Queensland,Australia,Organization 1,Gold Coast
+247,248,14010907,Customer 508,14010907,Company 376,Account 6,91346,91223,Foodservice,National Distributor,151.2101502,-33.9559326,Botany Bay,New South Wales,Australia,Organization 1,Greater Sydney
+248,249,14011064,Customer 511,14011053,Company 379,Account 5,91401,91278,Foodservice,Independent Distributor,138.5406477,-34.9592527,West Torrens,South Australia,Australia,Organization 1,Adelaide
+249,250,14011170,Customer 512,14011170,Company 380,Account 5,91401,91278,Foodservice,Independent Distributor,153.0325679,-26.6663166,Sunshine Coast,Queensland,Australia,Organization 1,Sunshine Coast & Wide Bay
+250,251,14013028,Customer 516,14013028,Company 382,Account 5,91401,91278,Foodservice,Independent Distributor,115.7657017,-32.0408342,East Fremantle,Western Australia,Australia,Organization 1,Perth
+251,252,14013126,Customer 517,11001053,Company 87,Account 4,91418,91295,Foodservice,National Distributor,151.0895346,-33.9419211,Kingsgrove,New South Wales,Australia,Organization 1,Greater Sydney
+252,253,14013222,Customer 518,14013222,Company 383,Account 4,91418,91295,Foodservice,National Distributor,145.035346,-37.68814,Whittlesea,Victoria,Australia,Organization 1,Greater Melbourne
+253,254,14013344,Customer 522,11002912,Company 245,Account 4,91418,91295,Foodservice,National Distributor,130.884274966495,-12.4300640134281,Darwin,Northern Territory,Australia,,Darwin
+254,255,14013371,Customer 523,14013371,Company 385,Account 14,91437,91314,Foodservice,National Distributor,142.1997453,-36.7472216,Horsham,Victoria,Australia,Organization 1,North West
+255,256,14013522,Customer 524,11000128,Company 4,Account 3,91363,91240,Foodservice,National Distributor,150.932023139173,-33.8390342676263,Holroyd,New South Wales,Australia,,Greater Sydney
+256,257,14013523,Customer 525,11001886,Company 179,Account 4,91418,91295,Foodservice,National Distributor,145.0432021,-37.7288207,Banyule,Victoria,Australia,Organization 1,Greater Melbourne
+257,258,14013524,Customer 526,14013524,Company 386,Account 3,91363,91240,Foodservice,National Distributor,144.8828351,-38.3793728,Mornington Peninsula,Victoria,Australia,Organization 1,Greater Melbourne
+258,259,14013621,Customer 528,14013621,Company 388,Account 4,91418,91295,Foodservice,National Distributor,153.0363415,-26.6605747,Sunshine Coast,Queensland,Australia,Organization 1,Sunshine Coast & Wide Bay
+259,260,14013682,Customer 529,14013682,Company 389,Account 5,91401,91278,Foodservice,Independent Distributor,146.7301064,-36.5689625,Alpine,Victoria,Australia,Organization 1,Hume
+260,261,14013786,Customer 530,11002257,Company 213,Account 4,91418,91295,Foodservice,National Distributor,148.7791994,-26.5833789,Maranoa,Queensland,Australia,Organization 1,"Darling Downs, Maranoa & Toowoomba"
+261,262,14013788,Customer 531,14001633,Company 304,Account 3,91363,91240,Foodservice,National Distributor,151.9455813,-27.573392,Toowoomba,Queensland,Australia,Organization 1,"Darling Downs, Maranoa & Toowoomba"
+262,263,14014296,Customer 532,14014296,Company 390,Account 6,91346,91223,Foodservice,National Distributor,121.4654801,-30.7493355,Kalgoorlie/Boulder,Western Australia,Australia,Organization 1,Western Australia - Outback (South)
+263,264,14014494,Customer 535,14014494,Company 392,Account 4,91418,91295,Foodservice,National Distributor,117.795009,-22.6961432,Ashburton,Western Australia,Australia,Organization 1,Western Australia - Outback (North)
+264,265,14014708,Customer 537,14014708,Company 393,Account 14,91437,91314,Foodservice,National Distributor,148.7827453,-26.5837746,Maranoa,Queensland,Australia,Organization 1,"Darling Downs, Maranoa & Toowoomba"
+265,266,14015636,Customer 541,14015636,Company 394,Account 3,91363,91240,Foodservice,National Distributor,144.777508389567,-37.7835312056279,Brimbank,Victoria,Australia,,Greater Melbourne
+266,267,14015848,Customer 543,14011170,Company 380,Account 5,91401,91278,Foodservice,Independent Distributor,153.0311557,-26.6663441,Sunshine Coast,Queensland,Australia,Organization 1,Sunshine Coast & Wide Bay
+267,268,14015946,Customer 544,14015946,Company 395,Account 3,91363,91240,Foodservice,National Distributor,149.214499,-21.0887065,Mackay,Queensland,Australia,Organization 1,Mackay - Isaac - Whitsunday
+268,269,14015967,Customer 546,11000577,Company 396,Account 14,91437,91314,Foodservice,National Distributor,151.0412223,-33.8932344,Bankstown,New South Wales,Australia,Organization 1,Greater Sydney
+269,270,14015994,Customer 549,14015994,Company 399,Account 3,91363,91240,Foodservice,National Distributor,116.8731058,-20.7730704,Roebourne,Western Australia,Australia,Organization 1,Western Australia - Outback (North)
+270,271,14015995,Customer 550,14015995,Company 400,Account 3,91363,91240,Foodservice,National Distributor,149.157342,-35.325164,Unincorporated Australian Capital Territory,Australian Capital Territory,Australia,Organization 1,Australian Capital Territory
+271,272,14016208,Customer 553,14016209,Company 401,Account 4,91418,91295,Foodservice,National Distributor,146.8981151,-36.1189637,Wodonga,Victoria,Australia,Organization 1,Hume
+272,273,14016209,Customer 554,14016209,Company 401,Account 4,91418,91295,Foodservice,National Distributor,146.8980562,-36.1201249,Wodonga,Victoria,Australia,Organization 1,Hume
+273,274,14016978,Customer 562,14016978,Company 404,Account 4,91418,91295,Foodservice,National Distributor,147.1877413,-41.4498786,Launceston,Tasmania,Australia,Organization 1,Launceston and North East
+274,275,14016979,Customer 563,14016979,Company 405,Account 14,91437,91314,Foodservice,National Distributor,153.1012696,-30.3144117,Coffs Harbour,New South Wales,Australia,Organization 1,Coffs Harbour - Grafton
+275,276,14017181,Customer 565,11000368,Company 45,Account 3,91363,91240,Foodservice,National Distributor,149.2558603,-33.513515,Blayney,New South Wales,Australia,Organization 1,Central West
+276,277,14017238,Customer 568,14017238,Company 407,Account 6,91346,91223,Foodservice,National Distributor,152.9426858,-27.5864448,Brisbane,Queensland,Australia,Organization 1,Greater Brisbane
+277,278,14017419,Customer 572,14017419,Company 410,Account 3,91363,91240,Foodservice,National Distributor,138.5849903,-34.8449901,Port Adelaide Enfield,South Australia,Australia,Organization 1,Adelaide
+278,279,14017500,Customer 574,11002351,Company 239,Account 20,91475,91352,Grocery,Supermarkets,146.721094,-36.076072,Wodonga,Victoria,Australia,Organization 1,Hume
+279,280,14017506,Customer 575,14017506,Company 411,Account 4,91418,91295,Foodservice,National Distributor,138.574268,-34.8695731,Port Adelaide Enfield,South Australia,Australia,Organization 1,Adelaide
+280,281,14017559,Customer 577,14009735,Company 365,Account 3,91363,91240,Foodservice,National Distributor,151.6571382,-32.9637281,Lake Macquarie,New South Wales,Australia,Organization 1,Central Coast & Newcastle
+281,282,14017672,Customer 580,14017672,Company 413,Account 6,91346,91223,Foodservice,National Distributor,122.2093229,-17.9828661,Broome,Western Australia,Australia,Organization 1,Western Australia - Outback (North)
+282,283,14017931,Customer 584,11000320,Company 34,Account 6,91346,91223,Foodservice,National Distributor,145.2101674,-38.0065436,Greater Dandenong,Victoria,Australia,Organization 1,Greater Melbourne
+283,284,14018046,Customer 794,14018047,Company 452,Account 110,98713,98590,Grocery,Supermarkets,138.655920018747,-34.697524988883,Playford,South Australia,Australia,,Adelaide
+284,285,14018102,Customer 588,11001753,Company 416,Account 14,91437,91314,Foodservice,National Distributor,144.379016200257,-38.0431466167994,Greater Geelong,Victoria,Australia,,Ballarat & Geelong
+285,286,14018168,Customer 796,14018168,Company 454,Account 4,91418,91295,Foodservice,National Distributor,150.878428495898,-33.9322329004911,Liverpool,New South Wales,Australia,,Greater Sydney
+286,287,14018570,Customer 798,14018570,Company 456,Account 6,91346,91223,Foodservice,National Distributor,144.309398401612,-36.7417387635992,Greater Bendigo,Victoria,Australia,,Bendigo
+287,288,14018612,Customer 591,11001194,Company 99,Account 4,91418,91295,Foodservice,National Distributor,153.251224920736,-27.7633520298467,Gold Coast,Queensland,Australia,,Gold Coast
+288,289,14018615,Customer 799,14018615,Company 457,Account 111,99167,99044,Foodservice,National Distributor,151.422741157665,-33.232743383028,Wyong,New South Wales,Australia,,Central Coast & Newcastle
+289,290,14018772,Customer 801,14018772,Company 459,Account 3,91363,91240,Foodservice,National Distributor,144.85985933098,-37.710649551689,Brimbank,Victoria,Australia,,Greater Melbourne
+290,291,14018989,Customer 594,11001678,Company 419,Account 3,91363,91240,Foodservice,National Distributor,144.981093166853,-37.6498947514453,Whittlesea,Victoria,Australia,,Greater Melbourne
+291,292,14019131,Customer 804,14019131,Company 462,Account 3,91363,91240,Foodservice,National Distributor,122.222450004063,-17.9648099876776,Broome,Western Australia,Australia,,Western Australia - Outback (North)
+292,293,14019353,Customer 599,11001028,Company 83,Account 3,91363,91240,Foodservice,National Distributor,145.033733027537,-37.7429879818777,Darebin,Victoria,Australia,,Greater Melbourne
+293,294,14019542,Customer 809,14019542,Company 464,Account 110,98713,98590,Grocery,Supermarkets,153.116116939632,-27.4452418309847,Brisbane,Queensland,Australia,,Greater Brisbane
+294,295,14019828,Customer 810,14019828,Company 465,Account 4,91418,91295,Foodservice,National Distributor,138.540145819327,-34.8615715535644,Charles Sturt,South Australia,Australia,,Adelaide
+295,296,14019842,Customer 605,11002351,Company 239,Account 20,91475,91352,Grocery,Supermarkets,144.76389534062,-37.8310353904176,Wyndham,Victoria,Australia,,Greater Melbourne
+296,297,14019861,Customer 811,14019861,Company 466,Account 5,91401,91278,Foodservice,Independent Distributor,115.836730010731,-31.7974699948903,Wanneroo,Western Australia,Australia,,Perth
+297,298,14020531,Customer 610,11000368,Company 45,Account 3,91363,91240,Foodservice,National Distributor,150.842927280275,-34.0049172444292,Campbelltown,New South Wales,Australia,,Greater Sydney
+298,299,14020629,Customer 814,14020629,Company 468,Account 111,99167,99044,Foodservice,National Distributor,147.161248227191,-41.4771030058512,Launceston,Tasmania,Australia,,Launceston and North East
+299,300,14020630,Customer 815,14020630,Company 469,Account 111,99167,99044,Foodservice,National Distributor,147.275190813129,-42.8282016342637,Glenorchy,Tasmania,Australia,,Hobart & South East
+300,301,14020819,Customer 613,11001888,Company 423,Account 3,91363,91240,Foodservice,National Distributor,115.788489978662,-32.0512500088901,Melville,Western Australia,Australia,,Perth
+301,302,14021034,Customer 616,11001632,Company 139,Account 4,91418,91295,Foodservice,National Distributor,115.882853193154,-31.864785771754,Swan,Western Australia,Australia,,Perth
+302,303,14021035,Customer 617,11001662,Company 142,Account 3,91363,91240,Foodservice,National Distributor,152.33305724912,-24.8925444087445,Bundaberg,Queensland,Australia,,Sunshine Coast & Wide Bay
+303,304,14021364,Customer 826,14021364,Company 478,Account 6,91346,91223,Foodservice,National Distributor,115.65028599855,-33.3380604191746,Bunbury,Western Australia,Australia,,Mandurah & Bunbury
+304,305,14021493,Customer 830,14021493,Company 481,Account 111,99167,99044,Foodservice,National Distributor,145.099557789555,-37.9309926032699,Kingston,Victoria,Australia,,Greater Melbourne
+305,306,14021494,Customer 831,14021494,Company 482,Account 111,99167,99044,Foodservice,National Distributor,147.275190813129,-42.8282016342637,Glenorchy,Tasmania,Australia,,Hobart & South East
+306,307,14021496,Customer 832,14021496,Company 483,Account 111,99167,99044,Foodservice,National Distributor,150.848892932222,-34.0056898882639,Campbelltown,New South Wales,Australia,,Greater Sydney
+307,308,14021687,Customer 633,11000744,Company 64,Account 3,91363,91240,Foodservice,National Distributor,138.689476465196,-34.8802722920106,Campbelltown,South Australia,Australia,,Adelaide
+308,309,14021786,Customer 638,11001780,Company 167,Account 3,91363,91240,Foodservice,National Distributor,115.813580032351,-31.9046700102764,Stirling,Western Australia,Australia,,Perth
+309,310,14021924,Customer 639,11002237,Company 211,Account 11,91379,91256,Foodservice,Global QSR Distributor,153.118374269976,-27.4459063063589,Brisbane,Queensland,Australia,,Greater Brisbane
+310,311,14022011,Customer 640,14001726,Company 305,Account 3,91363,91240,Foodservice,National Distributor,153.103893610232,-27.4254547559775,Brisbane,Queensland,Australia,,Greater Brisbane
+311,312,14022270,Customer 650,11000312,Company 27,Account 6,91346,91223,Foodservice,National Distributor,144.371612381363,-38.0542894350618,Greater Geelong,Victoria,Australia,,Ballarat & Geelong
+312,313,14022376,Customer 855,14022376,Company 499,Account 14,91437,91314,Foodservice,National Distributor,147.383223822053,-35.121730950252,Wagga Wagga,New South Wales,Australia,,Riverina
+313,314,14022441,Customer 659,11001014,Company 79,Account 5,91401,91278,Foodservice,Independent Distributor,116.006693298,-31.8458469034386,Swan,Western Australia,Australia,,Perth
